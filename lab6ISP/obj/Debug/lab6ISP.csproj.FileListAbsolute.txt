@@ -1,0 +1,6 @@
+c:\users\likal.desktop-d88p2kr\documents\visual studio 2015\Projects\lab6ISP\lab6ISP\bin\Debug\lab6ISP.exe.config
+c:\users\likal.desktop-d88p2kr\documents\visual studio 2015\Projects\lab6ISP\lab6ISP\bin\Debug\lab6ISP.exe
+c:\users\likal.desktop-d88p2kr\documents\visual studio 2015\Projects\lab6ISP\lab6ISP\bin\Debug\lab6ISP.pdb
+c:\users\likal.desktop-d88p2kr\documents\visual studio 2015\Projects\lab6ISP\lab6ISP\obj\Debug\lab6ISP.csprojResolveAssemblyReference.cache
+c:\users\likal.desktop-d88p2kr\documents\visual studio 2015\Projects\lab6ISP\lab6ISP\obj\Debug\lab6ISP.exe
+c:\users\likal.desktop-d88p2kr\documents\visual studio 2015\Projects\lab6ISP\lab6ISP\obj\Debug\lab6ISP.pdb

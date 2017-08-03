@@ -1,0 +1,18 @@
+D:\документы\documents\visual studio 2015\Projects\LR4\LR4\bin\Debug\LR4.exe.config
+D:\документы\documents\visual studio 2015\Projects\LR4\LR4\bin\Debug\LR4.exe
+D:\документы\documents\visual studio 2015\Projects\LR4\LR4\bin\Debug\LR4.pdb
+D:\документы\documents\visual studio 2015\Projects\LR4\LR4\obj\Debug\LR4.csprojResolveAssemblyReference.cache
+D:\документы\documents\visual studio 2015\Projects\LR4\LR4\obj\Debug\LR4.exe
+D:\документы\documents\visual studio 2015\Projects\LR4\LR4\obj\Debug\LR4.pdb
+G:\LR4\LR4\bin\Debug\LR4.exe.config
+G:\LR4\LR4\obj\Debug\LR4.exe
+G:\LR4\LR4\obj\Debug\LR4.pdb
+G:\LR4\LR4\bin\Debug\LR4.exe
+G:\LR4\LR4\bin\Debug\LR4.pdb
+G:\LR4\LR4\obj\Debug\LR4.csprojResolveAssemblyReference.cache
+G:\Блокнотик\ИСП\LR4\LR4\bin\Debug\LR4.exe.config
+G:\Блокнотик\ИСП\LR4\LR4\obj\Debug\LR4.exe
+G:\Блокнотик\ИСП\LR4\LR4\obj\Debug\LR4.pdb
+G:\Блокнотик\ИСП\LR4\LR4\bin\Debug\LR4.exe
+G:\Блокнотик\ИСП\LR4\LR4\bin\Debug\LR4.pdb
+G:\Блокнотик\ИСП\LR4\LR4\obj\Debug\LR4.csprojResolveAssemblyReference.cache

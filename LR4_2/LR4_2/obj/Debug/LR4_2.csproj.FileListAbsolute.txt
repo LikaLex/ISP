@@ -1,0 +1,12 @@
+D:\документы\documents\visual studio 2015\Projects\LR4_2\LR4_2\bin\Debug\LR4_2.exe.config
+D:\документы\documents\visual studio 2015\Projects\LR4_2\LR4_2\obj\Debug\LR4_2.csprojResolveAssemblyReference.cache
+D:\документы\documents\visual studio 2015\Projects\LR4_2\LR4_2\bin\Debug\LR4_2.exe
+D:\документы\documents\visual studio 2015\Projects\LR4_2\LR4_2\bin\Debug\LR4_2.pdb
+D:\документы\documents\visual studio 2015\Projects\LR4_2\LR4_2\obj\Debug\LR4_2.exe
+D:\документы\documents\visual studio 2015\Projects\LR4_2\LR4_2\obj\Debug\LR4_2.pdb
+G:\LR4_2\LR4_2\bin\Debug\LR4_2.exe.config
+G:\LR4_2\LR4_2\obj\Debug\LR4_2.exe
+G:\LR4_2\LR4_2\obj\Debug\LR4_2.pdb
+G:\LR4_2\LR4_2\bin\Debug\LR4_2.exe
+G:\LR4_2\LR4_2\bin\Debug\LR4_2.pdb
+G:\LR4_2\LR4_2\obj\Debug\LR4_2.csprojResolveAssemblyReference.cache
